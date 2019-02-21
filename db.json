@@ -1,28 +1,5 @@
 {
-  "products":[
-    {"id":1,"name":"Seal, northern elephant","category":"Maroon"},
-    {"id":2,"name":"Pie, rufous tree","category":"Teal"},
-    {"id":3,"name":"Civet cat","category":"Khaki"},
-    {"id":4,"name":"Goat, mountain","category":"Mauv"},
-    {"id":5,"name":"Kingfisher, pied","category":"Green"},
-    {"id":6,"name":"Barbet, levaillant's","category":"Turquoise"},
-    {"id":7,"name":"Cockatoo, long-billed","category":"Goldenrod"},
-    {"id":8,"name":"Pale-throated three-toed sloth","category":"Khaki"},
-    {"id":9,"name":"Rufous tree pie","category":"Crimson"},
-    {"id":10,"name":"Kingfisher, malachite","category":"Yellow"},
-    {"id":11,"name":"Cereopsis goose","category":"Khaki"},
-    {"id":12,"name":"Frogmouth, tawny","category":"Khaki"},
-    {"id":13,"name":"Spectacled caiman","category":"Puce"},
-    {"id":14,"name":"Toucan, white-throated","category":"Khaki"},
-    {"id":15,"name":"Canada goose","category":"Pink"},
-    {"id":16,"name":"White-tailed jackrabbit","category":"Violet"},
-    {"id":17,"name":"Cottonmouth","category":"Mauv"},
-    {"id":18,"name":"Barasingha deer","category":"Green"},
-    {"id":19,"name":"African jacana","category":"Pink"},
-    {"id":20,"name":"Stork, black-necked","category":"Violet"}
-  ],
-  
-	"users" :[
+  "users" :[
     {"id":1,"first_name":"Kendrick","last_name":"Headon","email":"kheadon0@soundcloud.com","gender":"Male"},
     {"id":2,"first_name":"Eda","last_name":"Mowsdell","email":"emowsdell1@economist.com","gender":"Female"},
     {"id":3,"first_name":"Skell","last_name":"Poter","email":"spoter2@vinaora.com","gender":"Male"},
